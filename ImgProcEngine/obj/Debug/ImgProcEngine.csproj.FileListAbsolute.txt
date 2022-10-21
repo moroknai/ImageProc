@@ -1,0 +1,5 @@
+D:\Programs\ImgProc\ImgProcEngine\bin\Debug\ImgProcEngine.dll
+D:\Programs\ImgProc\ImgProcEngine\bin\Debug\ImgProcEngine.pdb
+D:\Programs\ImgProc\ImgProcEngine\obj\Debug\ImgProcEngine.dll
+D:\Programs\ImgProc\ImgProcEngine\obj\Debug\ImgProcEngine.pdb
+D:\Programs\ImgProc\ImgProcEngine\obj\Debug\ImgProcEngine.csprojAssemblyReference.cache

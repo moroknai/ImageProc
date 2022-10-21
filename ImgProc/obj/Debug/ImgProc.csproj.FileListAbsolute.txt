@@ -1,0 +1,12 @@
+D:\Programs\ImgProc\ImgProc\obj\Debug\ImgProc.csprojAssemblyReference.cache
+D:\Programs\ImgProc\ImgProc\obj\Debug\ImgProc.Form1.resources
+D:\Programs\ImgProc\ImgProc\obj\Debug\ImgProc.Properties.Resources.resources
+D:\Programs\ImgProc\ImgProc\obj\Debug\ImgProc.csproj.GenerateResource.cache
+D:\Programs\ImgProc\ImgProc\bin\Debug\ImgProc.exe.config
+D:\Programs\ImgProc\ImgProc\bin\Debug\ImgProc.exe
+D:\Programs\ImgProc\ImgProc\bin\Debug\ImgProc.pdb
+D:\Programs\ImgProc\ImgProc\bin\Debug\ImgProcEngine.dll
+D:\Programs\ImgProc\ImgProc\bin\Debug\ImgProcEngine.pdb
+D:\Programs\ImgProc\ImgProc\obj\Debug\ImgProc.csproj.CopyComplete
+D:\Programs\ImgProc\ImgProc\obj\Debug\ImgProc.exe
+D:\Programs\ImgProc\ImgProc\obj\Debug\ImgProc.pdb
